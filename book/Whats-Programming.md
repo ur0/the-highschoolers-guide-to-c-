@@ -13,4 +13,4 @@ To sum up, you'll be writing your own *programs* in some *language*, using a par
 Throughout this book, we'll be writing in this language called C++.
 
 ## Why C++
-  I'll admit it. C++ isn't exactly the simplest programming language. However, it has several aspects which make it a good first language. Trust me, by the time we're done with this, you're gonna love C++. Also, once you figure out C++ (or for that matter, any good language), learning other languages will be a cakewalk.
+  I'll admit it. C++ isn't exactly the simplest programming language. However, it has several aspects which make it a good first language. Trust me, by the time we're done with this, you're gonna love C++. Also, once you figure out C++ (or for that matter, any good language), learning other languages will be a cakewalk. So, let's get started.
