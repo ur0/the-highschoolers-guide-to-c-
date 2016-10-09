@@ -12,7 +12,10 @@ Instructions here differ for each OS. If you're running Windows or some Linux di
 
 ### Linux
 
-We'll be using `g++` to compile our programs on Linux. If you're using Debian or Ubuntu, you can install `g++` by running `sudo apt-get install g++`. That's it.
+You've got two options. If you're comfy with a terminal, you should install and use g++. If the command line freaks you out for whatever reason, you should use CodeBlocks instead (see the Windows instructions for the download link).
+
+#### g++
+If you're using Debian or Ubuntu, you can install `g++` by running `sudo apt-get install g++`. That's it.
 To compile a program, you'll run `g++ path/to/program.cpp` to compile and link the executable, and `./a.out` in your current directory to execute it.
 
 ### Windows
