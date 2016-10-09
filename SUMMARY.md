@@ -1,4 +1,5 @@
 # Summary
 
-* [Introduction](book/Introduction.md)
+* [Introduction](README.md)
+* [What's Programming?](book/Introduction.md)
 
